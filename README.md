@@ -1,5 +1,4 @@
 ## 👋 Hi, I'm Manish!<br> 
-**🚀 Developer | JavaScript Enthusiast**<br><br>
 "I write code like I cook—sometimes it works, sometimes it catches fire." 🔥👨‍🍳<br><br>
 
 ### 🏆 GitHub Trophies
