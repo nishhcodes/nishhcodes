@@ -1,7 +1,10 @@
 ## 👋 Hi, I'm Manish!<br> 
 "I write code like I cook—sometimes it works, sometimes it catches fire."🔥👨‍🍳<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nishhcodes&title=Commits,Repositories,PullRequest,Experience&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nishhcodes&no-title=Commits,Repositories,PullRequest,Experience&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nishhcodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&title=Commits,Repositories,PullRequest,Experience&row=1)
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=nishhcodes&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishhcodes&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
