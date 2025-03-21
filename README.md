@@ -2,9 +2,7 @@
 "I write code like I cook—sometimes it works, sometimes it catches fire." 🔥👨‍🍳<br><br>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nishhcodes&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&exclude=Followers,Issues,Stars,Reviews)
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nishhcodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&title=Commits,Repositories,PullRequest,Experience&row=1)
+![](https://github-profile-trophy.vercel.app/?username=nishhcodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&title=Commits,Repositories&row=1)
 
 
 ### 💻 Tech Stack:
