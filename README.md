@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Manish!<br> 
-"I write code like I cook—sometimes it works, sometimes it catches fire." 🔥👨‍🍳<br><br>
+* "I write code like I cook—sometimes it works, sometimes it catches fire." *🔥👨‍🍳<br>
 
 ![](https://github-profile-trophy.vercel.app/?username=nishhcodes&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&title=Commits,Repositories&row=1)
 
