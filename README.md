@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Manish!<br> 
-"I write code like I cook—sometimes it works, sometimes it catches fire."🔥👨‍🍳<br>
+"Skilled in creating seamless and user friendly web applications."<br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=nishhcodes&title=Commits,Repositories&margin-w=10)
 
