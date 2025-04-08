@@ -1,4 +1,4 @@
-# Hi, I'm Manish 👋 
+# Hi, I'm nishh 👋 
 
 - 🚀 Learning **Go**  
 - 🔹 Building **REST APIs with Gin & PostgreSQL**  
